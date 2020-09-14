@@ -1,2 +1,9 @@
-gunicorn==19.9.0
-requests==2.20.0
+pandas
+simplejson
+requests
+datetime
+bokeh
+pip
+gunicorn
+flask
+Jinja2
