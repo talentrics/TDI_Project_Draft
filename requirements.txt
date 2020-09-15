@@ -7,3 +7,7 @@ flask
 jinja2
 pip
 simplejson
+threading
+datetime
+Jinja2
+bokeh
