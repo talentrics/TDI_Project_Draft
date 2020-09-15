@@ -36,7 +36,7 @@ def graph():
             "symbol": app.vars['symbol'],
             "outputsize" : "full",
             "datatype": "json",
-            "apikey": "GH5U75JGWCE1C0C3" }
+            "apikey": "VWSYI59PA94WNUMQ" }
    response = requests.get(API_URL, data)
    response_json = response.json()
 
