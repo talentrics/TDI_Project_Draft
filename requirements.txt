@@ -1,4 +1,3 @@
-lxml
-flask
-yfinance
-html5lib
+gunicorn
+requests
+Flask
