@@ -1,9 +1,4 @@
-pandas
-simplejson
-requests
-datetime
-bokeh
-pip
-gunicorn
+lxml
 flask
-Jinja2
+yfinance
+html5lib
