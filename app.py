@@ -25,6 +25,14 @@ def main():
 @app.route('/index', methods=['GET'])
 def index():
    return render_template('index.html')
+
+@app.route('/about')
+def about():
+  return render_template('about.html')
+
+@app.route('/talentrics')
+def about():
+  return render_template('talentrics.html')
     
 @app.route('/graph', methods=['POST'])
 def graph():
